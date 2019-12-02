@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+html, body{
+    color: rgba(109, 11, 11, 0.863);
+    background: #333;
+    overflow: hidden;
+}
+.landing{
+    position: relative;
+    background-image: url("../img/pexels-photo-259583.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.landing-inner{
+    height: 100%;
+    background: rgba(24, 186, 197, 0.486);
+}
+.landing h1{
+    padding-top: 100px;
+    width: 315px;
+    margin: auto;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.coun
